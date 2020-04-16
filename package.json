@@ -1,0 +1,23 @@
+{
+	"name": "array-previous",
+	"version": "0.0.1",
+	"description": "Grab the previous item in the array looping when hitting the beginning.",
+	"main": "array-previous.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/henrygd/array-previous"
+	},
+	"keywords": [
+		"util",
+		"array",
+		"index"
+	],
+	"author": "Hank Dollman <hank@henrygd.me>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/henrygd/array-previous/issues"
+	}
+}
